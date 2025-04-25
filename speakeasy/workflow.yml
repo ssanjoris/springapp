@@ -1,0 +1,9 @@
+openapi_doc_location: https://springapp-1.onrender.com/v3/api-docs
+
+sdks:
+  typescript:
+    output_path: sdks/typescript
+    publish: false  # Set to true if you want Speakeasy to publish to npm
+  python:
+    output_path: sdks/python
+    publish: false  # Set to true to publish to PyPI
